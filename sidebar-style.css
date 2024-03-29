@@ -1,4 +1,4 @@
-@import url("https://netdna.bootstrapcdn.com/font-awesome/4.03.3/css/font-awesome.css");
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 
 .manu-wrapper{
     display:block;
@@ -27,7 +27,7 @@ label[data-funcition*="swipe"]{
     display: block;
     width: 42px;
     height: 42px;
-    font: 42px/42px font-awesome;
+    font: 42px/42px fontawesome;
     text-align: center;
     color: #2652cc;
     cursor: pointer;
